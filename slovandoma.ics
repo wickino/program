@@ -1,0 +1,90 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:-//ŠK Slovan Bratislava Domáce zápasy 2025/26//sk
+BEGIN:VEVENT
+DTSTART:20250708T201500
+SUMMARY:ŠK Slovan Bratislava - Wisla
+DESCRIPTION:Prípravný zápas
+LOCATION:Tehelné pole, Bratislava
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250713T140000
+SUMMARY:ŠK Slovan Bratislava - Midtjylland
+DESCRIPTION:Prípravný zápas
+LOCATION:Tehelné pole, Bratislava
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250722T201500
+SUMMARY:ŠK Slovan Bratislava - Virtus/Zrinjski
+DESCRIPTION:Európske poháre
+LOCATION:Tehelné pole, Bratislava
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250802T203000
+SUMMARY:ŠK Slovan Bratislava - Podbrezová
+DESCRIPTION:Niké liga
+LOCATION:Tehelné pole, Bratislava
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250816T180000
+SUMMARY:ŠK Slovan Bratislava - Skalica
+DESCRIPTION:Niké liga
+LOCATION:Tehelné pole, Bratislava
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250830T180000
+SUMMARY:ŠK Slovan Bratislava - FC Košice
+DESCRIPTION:Niké liga
+LOCATION:Tehelné pole, Bratislava
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250920T180000
+SUMMARY:ŠK Slovan Bratislava - D. Streda
+DESCRIPTION:Niké liga
+LOCATION:Tehelné pole, Bratislava
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251004T180000
+SUMMARY:ŠK Slovan Bratislava - Ružomberok
+DESCRIPTION:Niké liga
+LOCATION:Tehelné pole, Bratislava
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251025T153000
+SUMMARY:ŠK Slovan Bratislava - Prešov
+DESCRIPTION:Niké liga
+LOCATION:Tehelné pole, Bratislava
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251108T153000
+SUMMARY:ŠK Slovan Bratislava - Komárno
+DESCRIPTION:Niké liga
+LOCATION:Tehelné pole, Bratislava
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251129T153000
+SUMMARY:ŠK Slovan Bratislava - Michalovce
+DESCRIPTION:Niké liga
+LOCATION:Tehelné pole, Bratislava
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251213T153000
+SUMMARY:ŠK Slovan Bratislava - Žilina
+DESCRIPTION:Niké liga
+LOCATION:Tehelné pole, Bratislava
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260214T153000
+SUMMARY:ŠK Slovan Bratislava - Trenčín
+DESCRIPTION:Niké liga
+LOCATION:Tehelné pole, Bratislava
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260228T153000
+SUMMARY:ŠK Slovan Bratislava - Trnava
+DESCRIPTION:Niké liga
+LOCATION:Tehelné pole, Bratislava
+END:VEVENT
+END:VCALENDAR
+
